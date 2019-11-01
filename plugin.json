@@ -1,0 +1,8 @@
+{
+    "name": "Yappi profiler",
+    "author": "Jaime van Kessel",
+    "version": "1.0.0",
+    "description": "Add a way to start & stop the yappi profiler",
+    "api": "7.0",
+    "i18n-catalog": "cura"
+}
